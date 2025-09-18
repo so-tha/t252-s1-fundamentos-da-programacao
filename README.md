@@ -11,7 +11,6 @@ faça um fork para ter sua própria cópia, onde poderá adicionar suas resposta
 ## 📂 estrutura do repositório
 
 - [aula-01](./aula-01) → conteúdos e exercícios da primeira aula.  
-- [aula-02](./aula-02) → conteúdos e exercícios da segunda aula.  
 - [apostila](./apostila) → materiais extras e apostila.  
 - [desafio-semanal](./desafio-semanal) → desafios semanais para praticar.
   
